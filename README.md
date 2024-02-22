@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Like a skilled storyteller, I have the ability to weave narratives from data, transforming numbers and statistics into compelling stories that inspire action and drive change.<br>
 <br>
 <p align="center">
-  <a><img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/a4ab6934784911.56ddddd0a454c.png" height="190" width="380"> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=rkukreja24&show_icons=true" alt="rkukreja24">
 </p>
 
