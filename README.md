@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ritu-kukreja/" target="_blank"><img src="https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/277519684_10158675188522823_7436488509713286219_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=w0dN05Q31nsAX-HdUhm&_nc_ht=scontent-iad3-1.xx&oh=00_AfCnhtUTUZ6MIsrNXUGFA-QIoNmlSzjAmAWt6klYiJbQKQ&oe=65DC182B" height="30" width="30"></a>
+  <a href="https://www.linkedin.com/in/ritu-kukreja/" target="_blank"><img src="[[https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/277519684_10158675188522823_7436488509713286219_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=w0dN05Q31nsAX-HdUhm&_nc_ht=scontent-iad3-1.xx&oh=00_AfCnhtUTUZ6MIsrNXUGFA-QIoNmlSzjAmAWt6klYiJbQKQ&oe=65DC182B](https://www.google.com/imgres?q=linkedin%20logo%20black&imgurl=https%3A%2F%2Fcdn-icons-png.freepik.com%2F256%2F4817%2F4817826.png%3Fsemt%3Dais_hybrid&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Ficons%2Flinkedin-black&docid=fsUGPDmra_orqM&tbnid=NKbyKsT2vsO9uM&vet=12ahUKEwihtLbV2s2HAxV1ElkFHcceCPMQM3oECBgQAA..i&w=256&h=256&hcb=2&ved=2ahUKEwihtLbV2s2HAxV1ElkFHcceCPMQM3oECBgQAA)](https://www.pinterest.com/pin/619667229963235157/)" height="30" width="30"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
