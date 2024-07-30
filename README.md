@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ritu-kukreja/" target="_blank"><img src="https://i.pinimg.com/originals/c0/44/d1/c044d19025e6939e49af34610e2694d7.png" height="30" width="30"></a>
+  <a href="https://www.linkedin.com/in/ritu-kukreja/" target="_blank"><img src="https://i.pinimg.com/736x/fd/49/59/fd49592c9d6655a435becd5a5863dea3.jpg" height="30" width="30"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
