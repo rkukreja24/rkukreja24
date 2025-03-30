@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on my skills to become an Aspiring Data Scientist<br>
 - 🌱 I’m currently learning <strong>Mathematics, Statistics, Exploratory Data Analysis (EDA), Machine Learning</strong><br>
 - 💬 Ask me about <strong>Python, Django, Machine Learning</strong><br>
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/ritu-kukreja/" target="_blank">Ritu Kukreja</a><br>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/ds-rvk/" target="_blank">Ritu Kukreja</a><br>
 - ⚡ Fun fact: Like a skilled storyteller, I have the ability to weave narratives from data, transforming numbers and statistics into compelling stories that inspire action and drive change.<br>
 <br>
 <p align="center">
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ritu-kukreja/" target="_blank"><img src="https://i.pinimg.com/736x/fd/49/59/fd49592c9d6655a435becd5a5863dea3.jpg" height="30" width="30"></a>
+  <a href="https://www.linkedin.com/in/ds-rvk//" target="_blank"><img src="https://i.pinimg.com/736x/fd/49/59/fd49592c9d6655a435becd5a5863dea3.jpg" height="30" width="30"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
